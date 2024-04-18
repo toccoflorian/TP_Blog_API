@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlogAPI",
+    "\\BlogAPI\\Controllers",
+    "\\BlogAPI\\IRepository",
+    "\\BlogAPI\\Models",
+    "\\BlogAPI\\Repositories"
+  ],
+  "SelectedNode": "\\BlogAPI\\IRepository\\IUserRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,525 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\blogapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\blogapi\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\articlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\authrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\repositories\\themerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\themerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418145055_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogAPI\\Migrations\\20240418145055_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418144827_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogAPI\\Migrations\\20240418144827_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418142358_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogAPI\\Migrations\\20240418142358_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418142123_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogAPI\\Migrations\\20240418142123_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\commentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\controllers\\themecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\irepository\\ithemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\irepository\\ithemerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\blogapi\\irepository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\irepository\\iarticlerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\helpers\\dtohelper\\dtohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\helpers\\dtohelper\\dtohelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\dto\\article\\createarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dto\\article\\createarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\dto\\article\\getarticlewithallinformationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dto\\article\\getarticlewithallinformationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\dto\\article\\getarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dto\\article\\getarticledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\repositories\\commentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\dto\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dto\\comment\\createcommentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\irepository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\irepository\\icommentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|k:\\flo\\formation\\cda\\asp.net web api\\blogapi\\blogapi\\dto\\comment\\getcommentwithinformationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEE11C42-7E68-4170-B720-DC1F30A0B5C9}|BlogAPI\\BlogAPI.csproj|solutionrelative:blogapi\\dto\\comment\\getcommentwithinformationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 280,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Program.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Program.cs",
+              "RelativeToolTip": "BlogAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T07:57:09.952Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\ArticleController.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAHkAAAAAAAAAAAAcwIgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:53:29.291Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArticleRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\ArticleRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\ArticleRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\ArticleRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\ArticleRepository.cs",
+              "ViewState": "AQIAAKMAAAAAAAAAAAAqwHMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:53:37.617Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IArticleRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\IRepository\\IArticleRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\IRepository\\IArticleRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\IRepository\\IArticleRepository.cs",
+              "RelativeToolTip": "BlogAPI\\IRepository\\IArticleRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA8wBEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T13:53:40.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DTOHelper.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Helpers\\DTOHelper\\DTOHelper.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Helpers\\DTOHelper\\DTOHelper.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Helpers\\DTOHelper\\DTOHelper.cs",
+              "RelativeToolTip": "BlogAPI\\Helpers\\DTOHelper\\DTOHelper.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwDYAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T08:45:42.116Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\AuthRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\AuthRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\AuthRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\AuthRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T15:13:59.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\AdminController.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAkwC0AAACIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:51:50.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ThemeRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\ThemeRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\ThemeRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\ThemeRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\ThemeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T12:01:22.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\UserRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:51:43.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwEEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:55:11.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogAPI\\appsettings.json",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\appsettings.json",
+              "RelativeToolTip": "BlogAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-18T14:20:32.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240418145055_init.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418145055_init.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Migrations\\20240418145055_init.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418145055_init.cs",
+              "RelativeToolTip": "BlogAPI\\Migrations\\20240418145055_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:50:55.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20240418144827_init.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418144827_init.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Migrations\\20240418144827_init.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418144827_init.cs",
+              "RelativeToolTip": "BlogAPI\\Migrations\\20240418144827_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:48:27.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Context.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Context.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Context.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Context.cs",
+              "RelativeToolTip": "BlogAPI\\Context.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:45:33.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240418142123_init.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418142123_init.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Migrations\\20240418142123_init.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418142123_init.cs",
+              "RelativeToolTip": "BlogAPI\\Migrations\\20240418142123_init.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:21:23.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240418142358_init.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418142358_init.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Migrations\\20240418142358_init.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Migrations\\20240418142358_init.cs",
+              "RelativeToolTip": "BlogAPI\\Migrations\\20240418142358_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T14:23:58.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CommentController.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\CommentController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\CommentController.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\CommentController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\CommentController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCEAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:54:39.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\UserController.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:55:08.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ThemeController.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\ThemeController.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Controllers\\ThemeController.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Controllers\\ThemeController.cs",
+              "RelativeToolTip": "BlogAPI\\Controllers\\ThemeController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:47:55.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IThemeRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\IRepository\\IThemeRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\IRepository\\IThemeRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\IRepository\\IThemeRepository.cs",
+              "RelativeToolTip": "BlogAPI\\IRepository\\IThemeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:50:16.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateArticleDTO.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Article\\CreateArticleDTO.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTO\\Article\\CreateArticleDTO.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Article\\CreateArticleDTO.cs",
+              "RelativeToolTip": "BlogAPI\\DTO\\Article\\CreateArticleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T13:04:40.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "GetArticleWithAllInformationsDTO.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Article\\GetArticleWithAllInformationsDTO.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTO\\Article\\GetArticleWithAllInformationsDTO.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Article\\GetArticleWithAllInformationsDTO.cs",
+              "RelativeToolTip": "BlogAPI\\DTO\\Article\\GetArticleWithAllInformationsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:51:10.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "GetArticleDTO.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Article\\GetArticleDTO.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTO\\Article\\GetArticleDTO.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Article\\GetArticleDTO.cs",
+              "RelativeToolTip": "BlogAPI\\DTO\\Article\\GetArticleDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:49:41.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Article.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Models\\Article.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Models\\Article.cs",
+              "RelativeToolTip": "BlogAPI\\Models\\Article.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:09:15.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CommentRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\CommentRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\Repositories\\CommentRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\Repositories\\CommentRepository.cs",
+              "RelativeToolTip": "BlogAPI\\Repositories\\CommentRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:55:10.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CreateCommentDTO.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Comment\\CreateCommentDTO.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTO\\Comment\\CreateCommentDTO.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Comment\\CreateCommentDTO.cs",
+              "RelativeToolTip": "BlogAPI\\DTO\\Comment\\CreateCommentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:57:48.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ICommentRepository.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\IRepository\\ICommentRepository.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\IRepository\\ICommentRepository.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\IRepository\\ICommentRepository.cs",
+              "RelativeToolTip": "BlogAPI\\IRepository\\ICommentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:54:57.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GetCommentWithInformationsDTO.cs",
+              "DocumentMoniker": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Comment\\GetCommentWithInformationsDTO.cs",
+              "RelativeDocumentMoniker": "BlogAPI\\DTO\\Comment\\GetCommentWithInformationsDTO.cs",
+              "ToolTip": "K:\\Flo\\Formation\\CDA\\ASP.NET Web API\\BlogAPI\\BlogAPI\\DTO\\Comment\\GetCommentWithInformationsDTO.cs",
+              "RelativeToolTip": "BlogAPI\\DTO\\Comment\\GetCommentWithInformationsDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T09:51:51.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

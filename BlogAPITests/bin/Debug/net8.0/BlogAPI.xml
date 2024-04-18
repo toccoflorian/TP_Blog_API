@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BlogAPI</name>
+    </assembly>
+    <members>
+        <member name="M:BlogAPI.Controllers.AuthController.Register(BlogAPI.DTO.User.RegisterUserDTO)">
+            <summary>
+            Register a new user
+            </summary>
+            <returns>string</returns>
+        </member>
+        <member name="M:BlogAPI.Controllers.ThemeController.GetAll">
+            <summary>
+            Get a list of all themes
+            </summary>
+            <returns>List of themes</returns>
+        </member>
+        <member name="M:BlogAPI.Controllers.ThemeController.Create(BlogAPI.DTO.Theme.CreateThemeDTO)">
+            <summary>
+            Create and save a new theme
+            </summary>
+            <param name="createThemeDTO"></param>
+        </member>
+        <member name="M:BlogAPI.Controllers.ThemeController.Delete(BlogAPI.DTO.Theme.DeleteThemeDTO)">
+            <summary>
+            Delete a theme
+            </summary>
+            <param name="deleteThemeDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="T:BlogAPI.Migrations.init">
+            <inheritdoc />
+        </member>
+        <member name="M:BlogAPI.Migrations.init.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BlogAPI.Migrations.init.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:BlogAPI.Migrations.init.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>
